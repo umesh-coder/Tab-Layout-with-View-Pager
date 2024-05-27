@@ -1,0 +1,13 @@
+
+…
+java:S1854"=Remove this useless assignment to local variable "tabStatus".(çêù•øÿÿÿÿ8­«ãÊû1J$6d283178-937c-400a-a99f-b89c608ea1ee
+
+java:S1854"<Remove this useless assignment to local variable "tabCalls".(ûå‘ 8­«ãÊû1J$5a5bf520-195c-4f9e-b93e-77dc8ecb65c6
+ƒ
+java:S1854";Remove this useless assignment to local variable "tabChat".(£»¥ıÿÿÿÿ8­«ãÊû1J$495ae7c0-8d10-46a4-ae2f-b179bb241da7
+t
+java:S1481",Remove this unused "tabChat" local variable.(£»¥ıÿÿÿÿ8°«ãÊû1J$8cd4a3ca-3894-4a69-9f8f-f54e8e7d28c3
+p
+java:S1481"-Remove this unused "tabCalls" local variable.(ûå‘ 8±«ãÊû1J$20838685-f8ed-44c7-bc33-2fc5f74e3613
+v
+java:S1481".Remove this unused "tabStatus" local variable.(çêù•øÿÿÿÿ8±«ãÊû1J$fa16e698-62ba-4bba-95ab-6c0c2c655360
